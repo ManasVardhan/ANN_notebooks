@@ -1,0 +1,7 @@
+click
+pillow
+numpy
+trimesh
+plotly
+kaleido
+imageio
